@@ -1,0 +1,6 @@
+model_checkpoint_path: "finish"
+all_model_checkpoint_paths: "max_acc-epoch-369-0.8565999984741212"
+all_model_checkpoint_paths: "max_acc-epoch-405-0.8569999992847441"
+all_model_checkpoint_paths: "max_acc-epoch-492-0.8587000042200089"
+all_model_checkpoint_paths: "max_acc-epoch-2360-0.8591999977827071"
+all_model_checkpoint_paths: "finish"
